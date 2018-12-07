@@ -7,4 +7,6 @@ The program was designed for SMEs(Small and Medium sized enterprises.
 - Update Order as On Its Way,Delivered,Not Delivered
 # Database
 For relational database management, MySQL is used in the programme.
+# Screenshot
+<img width="418" alt="automation" src="https://user-images.githubusercontent.com/32852305/49636574-0b428980-fa14-11e8-957e-ef60edec545d.png">
 
